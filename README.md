@@ -59,6 +59,11 @@ https://hub.docker.com/r/tymkeez/custom-nginx
 
 ### Решение
 
+![Вывод команд](images/zad_3_1.png)
+![Вывод команд](images/zad_3_2.png)
+![Вывод команд](images/zad_3_3.png)
+![Вывод команд](images/zad_3_4.png)
+![Вывод команд](images/zad_3_5.png)
 
 
 ## Задача 4
