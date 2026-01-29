@@ -80,7 +80,7 @@ https://hub.docker.com/r/tymkeez/custom-nginx
 
 ### Решение
 
-
+![Вывод команд](images/zad_4.png)
 
 ## Задача 5
 
