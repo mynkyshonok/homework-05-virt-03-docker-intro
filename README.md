@@ -39,7 +39,7 @@ https://hub.docker.com/r/tymkeez/custom-nginx
 
 ### Решение
 
-
+!(решение)[images/zad_2.png]
 
 ## Задача 3
 1. Воспользуйтесь docker help или google, чтобы узнать как подключиться к стандартному потоку ввода/вывода/ошибок контейнера "custom-nginx-t2".
