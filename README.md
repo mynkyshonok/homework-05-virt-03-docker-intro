@@ -129,7 +129,20 @@ services:
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод, файл compose.yaml , скриншот portainer c задеплоенным компоузом.
 
-#### Выполнено
+#### Решение:
+
+<img width="404" height="187" alt="image" src="https://github.com/user-attachments/assets/223c2f72-14fe-4437-9fe6-41b750727d55" />
+
+<img width="1310" height="275" alt="image" src="https://github.com/user-attachments/assets/4183a835-f7af-4d40-82e5-9cc7b73f8bc9" />
+
+<img width="775" height="224" alt="image" src="https://github.com/user-attachments/assets/63075ca6-5d43-4da3-921a-16390d3ed86a" />
+
+<img width="550" height="19" alt="image" src="https://github.com/user-attachments/assets/bf2cd82e-1ce7-46d4-9715-5efaf153ff05" />
+
+<img width="1336" height="632" alt="image" src="https://github.com/user-attachments/assets/6339b65a-de3f-49e5-accd-0c114c0f614b" />
+
+<img width="1334" height="281" alt="image" src="https://github.com/user-attachments/assets/88947652-f1a8-4e8c-8d12-c41593fff8d6" />
+
 
 ---
 
